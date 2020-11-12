@@ -1,0 +1,10 @@
+C:\Users\Luke_Yu\source\repos\AutoLogin4NUIST\AutoLogin4NUIST\obj\Debug\AutoLogin4NUIST.csprojAssemblyReference.cache
+C:\Users\Luke_Yu\source\repos\AutoLogin4NUIST\AutoLogin4NUIST\obj\Debug\AutoLogin4NUIST.Form1.resources
+C:\Users\Luke_Yu\source\repos\AutoLogin4NUIST\AutoLogin4NUIST\obj\Debug\AutoLogin4NUIST.Properties.Resources.resources
+C:\Users\Luke_Yu\source\repos\AutoLogin4NUIST\AutoLogin4NUIST\obj\Debug\AutoLogin4NUIST.csproj.GenerateResource.cache
+C:\Users\Luke_Yu\source\repos\AutoLogin4NUIST\AutoLogin4NUIST\obj\Debug\AutoLogin4NUIST.csproj.CoreCompileInputs.cache
+C:\Users\Luke_Yu\source\repos\AutoLogin4NUIST\AutoLogin4NUIST\bin\Debug\AutoLogin4NUIST.exe.config
+C:\Users\Luke_Yu\source\repos\AutoLogin4NUIST\AutoLogin4NUIST\bin\Debug\AutoLogin4NUIST.exe
+C:\Users\Luke_Yu\source\repos\AutoLogin4NUIST\AutoLogin4NUIST\bin\Debug\AutoLogin4NUIST.pdb
+C:\Users\Luke_Yu\source\repos\AutoLogin4NUIST\AutoLogin4NUIST\obj\Debug\AutoLogin4NUIST.exe
+C:\Users\Luke_Yu\source\repos\AutoLogin4NUIST\AutoLogin4NUIST\obj\Debug\AutoLogin4NUIST.pdb
